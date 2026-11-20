@@ -1,0 +1,4 @@
+account,workflow,device,profile,owner,status
+studio-a,Weekly publishing review,phone-01,studio-a,Content lead,ready
+studio-b,Reel approval,phone-01,studio-b,Account manager,review
+studio-c,Campaign handoff,phone-02,default,Operations lead,paused
